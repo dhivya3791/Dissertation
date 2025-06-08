@@ -25,4 +25,24 @@ This project explores **sentiment classification** of Amazon shoe reviews using 
 - Confusion Matrix
 
 ---
+🛠️ Technologies Used
+
+- Python, Jupyter Notebook
+- NLTK, Scikit-learn, Keras, TensorFlow, Gensim
+- SMOTE Tomek (Imbalanced Learn)
+
+---
+
+## 🔍 Project Motivation
+
+This project was completed as part of my MSc in Big Data Analytics at Sheffield Hallam University. The objective was to evaluate different NLP techniques and model the sentiments associated with e-commerce product reviews.
+
+---
+
+## 📷 Screenshots
+
+![Word Cloud Example](screenshots/wordclouds.png)
+
+---
+
 

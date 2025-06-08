@@ -39,9 +39,7 @@ This project was completed as part of my MSc in Big Data Analytics at Sheffield 
 
 ---
 
-## 📷 Screenshots
 
-![Word Cloud Example](screenshots/wordclouds.png)
 
 ---
 
